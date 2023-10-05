@@ -6,15 +6,16 @@
 
   1. 先透過市面上已存在的換臉程式，進行性別的轉換。
 
-       ![image](picture or gif url)
-
   2. 將一般未經過修改的圖像，透過AI_playground進行模型的訓練。
 
-       ![image](picture or gif url)
+       ![image](https://github.com/110916041/AI_playground_test/blob/f8524a29e0f6534d1b6b1f4603f94ba2f5429df5/image/train.png)
 
   3. 將第一步驟的所更改的照片，放進步驟二所產生出的model進行性別的辨識，並與正常照片進行比較。
 
-       ![image](picture or gif url)
+   ***有礙觀瞻 注意！！！***
+
+  ![image](https://github.com/110916041/AI_playground_test/blob/f8524a29e0f6534d1b6b1f4603f94ba2f5429df5/image/test.png)
+  ![image](https://github.com/110916041/AI_playground_test/blob/f8524a29e0f6534d1b6b1f4603f94ba2f5429df5/image/test_ori.png)
 
 心得：
 
